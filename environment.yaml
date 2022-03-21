@@ -4,7 +4,7 @@ channels:
     - nvidia
     - pytorch
 dependencies:
-    - cudatoolkit=11.1
+    - cudatoolkit=11.6.0
     - imageio
     - ipython
     - matplotlib
